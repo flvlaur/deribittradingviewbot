@@ -1,0 +1,12 @@
+{
+"client": {
+    "id": "h0aWfZKv",
+    "secret": "dmwXbkK9QxIxZoktVfCfKqFfbtooIClGEqerMxfWEC4",
+    "key": "",
+    "url": "https://www.test.deribit.com"
+    },
+
+"network": {
+    "port": "6969"
+}
+}
